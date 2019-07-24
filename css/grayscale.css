@@ -302,3 +302,8 @@ a:focus, a:hover {
 footer {
   padding: 5rem 0;
 }
+.profile-picture {
+  height: 200px;
+  border-radius: 50%;
+  filter: brightness(0.9);
+}
